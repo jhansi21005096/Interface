@@ -83,7 +83,7 @@ namespace prg
 ```
 
 ## Output:
-![output]()
+![output](https://github.com/jhansi21005096/Interface/blob/main/output.png)
 
 ## Result:
 Thus the C# program using interface concept has been implemented successfully.
